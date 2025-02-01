@@ -1,16 +1,5 @@
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/faslu-rahman-tp-ba2236201/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=fazleo.fazleo&left_text=Traffic"  />
-</div>
 
 ###
 
@@ -29,6 +18,14 @@ I’m a **Junior Research Fellow** at **NIT Calicut**, specializing in AI, machi
 
 
 📧 **Email**: faslukarippur@gmail.com  
+<div align="start">
+  <a href="https://www.linkedin.com/in/faslu-rahman-tp-ba2236201/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=fazleo.fazleo&left_text=Traffic"  />
+</div>
 
 ---
 
