@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/D5603AQFNj2jFX2TuAQ/profile-displayphoto-shrink_200_200/0/1719033594132?e=2147483647&v=beta&t=N-Sjk53pRunJ02atkc4DFAV16d724CAvgUZ1OLonKTk"  />
-</div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/faslu-rahman-tp-ba2236201/" target="_blank">
