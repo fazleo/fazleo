@@ -11,7 +11,7 @@
 
 ###
 
-# Hi, I'm Faslu Rahman TP 👋
+# I'm Faslu Rahman TP 
 
 ## About Me
 I’m a **Junior Research Fellow** at **NIT Calicut**, specializing in AI, machine learning, and computer vision. I hold a **B.Tech in Computer Science** and am currently pursuing a **B.S. in Data Science and Applications** from **IIT Madras**. My passion lies in solving real-world problems using cutting-edge technologies like deep learning, generative AI, and intelligent systems.
@@ -50,7 +50,7 @@ I’m a **Junior Research Fellow** at **NIT Calicut**, specializing in AI, machi
 ### 🏆 Publications
 1. **Object Detection Algorithm Evaluation in the Context of Indian Transportation**  
    IEEE 9th International Conference for Convergence of Technology (I2CT) 2024  
-   [DOI: 10.1109/I2CT61223.2024.10543329](https://doi.org/10.1109/I2CT61223.2024.10543329)
+  
 
 2. **Affordable Navigation Aid: A Smart Walking Stick for the Visually Impaired**  
    6th International Conference on Recent Advances in Intelligent Computational Systems (RAICS) 2024  
