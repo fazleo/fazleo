@@ -5,15 +5,7 @@
 
 <h1 align="center">Hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-# I'm Faslu Rahman TP 
-
-## About Me
 I’m a **Junior Research Fellow** at **NIT Calicut**, specializing in AI, machine learning, and computer vision. I hold a **B.Tech in Computer Science** and am currently pursuing a **B.S. in Data Science and Applications** from **IIT Madras**. My passion lies in solving real-world problems using cutting-edge technologies like deep learning, generative AI, and intelligent systems.
 
 
