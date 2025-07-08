@@ -1,13 +1,14 @@
+<h1 align="center">👋 Hey there, I'm Faslu Rahman TP</h1>
+<h3 align="center">Generative AI Developer @ TCS | Ex-JRF @ NIT Calicut | AI/ML Researcher</h3>
 
+---
 
+🎓 Previously **Junior Research Fellow** at **NIT Calicut**,  
+💼 Now working as a **Generative AI Developer** at **TCS**  
+📚 Pursuing **B.S. in Data Science and Applications** from **IIT Madras**  
+💡 Passionate about solving real-world problems using **AI, Deep Learning, GenAI, and Computer Vision**
 
-###
-
-<h1 align="center">Hey there 👋</h1>
-
-
-I’m a **Junior Research Fellow** at **NIT Calicut**, specializing in AI, machine learning, and computer vision. I hold a **B.Tech in Computer Science** and am currently pursuing a **B.S. in Data Science and Applications** from **IIT Madras**. My passion lies in solving real-world problems using cutting-edge technologies like deep learning, generative AI, and intelligent systems.
-
+---
 
 📧 **Email**: faslukarippur@gmail.com  
 <div align="start">
@@ -21,101 +22,93 @@ I’m a **Junior Research Fellow** at **NIT Calicut**, specializing in AI, machi
 
 ---
 
-### 🌟 Skills
-- **Programming**: Python, C, Java, SQL, HTML, CSS  
-- **Libraries**: TensorFlow, NumPy, Pandas, Matplotlib, LangChain, Flask  
-- **Web Dev**: Flask, Django, Bootstrap  
-- **Databases**: SQLite, Firebase  
-- **Dev Tools**: Jupyter Notebooks, Google Colab, Git, VS Code  
+## 🚀 What I Do
+
+- 🌆 Built AI-powered **traffic control systems** at NIT Calicut using YOLOv10 + DeepSORT  
+- 🤖 Currently developing **GenAI applications** at TCS using LLM agents, multimodal tools, and LangChain ecosystem  
+- 📦 Designing and Developing **ML/DL applications**.
+- 🧠 Exploring advanced **agent-based architectures**, **RAG systems**, and **LLM workflows** for real-world use cases  
 
 ---
 
-### 🔭 I’m currently working on
-- Developing **AI-based traffic control systems** for smart cities using **YOLOv10** and **DeepSort**.
-- Building tools to facilitate dataset sharing for research purposes.
-- Exploring **generative AI** for applications like recipe generation and blog creation.
+## 🧠 Skills & Tools
+
+### 💻 Programming & Tech
+`Python`, `C`, `Java`, `SQL`, `HTML`, `CSS`
+
+### 📊 AI & ML
+`TensorFlow`, `Scikit-learn`, `PyTorch`, `Pandas`, `NumPy`, `Matplotlib`
+
+### 🔮 GenAI Stack
+`LangChain`, `LangGraph`, `Google Agent Dev Kit`, `AutoGen`, `MCP`, `Agno`, `OpenAI`, `Ollama`
+
+### 🌐 Web Development
+`Flask`, `FastAPI`, `Django`, `Bootstrap`
+
+### 🗃️ Databases
+`SQLite`, `Firebase`
+
+### ⚙️ Tools & Platforms
+`Google Colab`, `Jupyter`, `Git`, `VS Code`, `Spyder`
 
 ---
 
+## 🏆 Publications
 
-
-### 🏆 Publications
 1. **Object Detection Algorithm Evaluation in the Context of Indian Transportation**  
-   IEEE 9th International Conference for Convergence of Technology (I2CT) 2024  
-  
+   *IEEE 9th International Conference for Convergence of Technology (I2CT), 2024*
 
 2. **Affordable Navigation Aid: A Smart Walking Stick for the Visually Impaired**  
-   6th International Conference on Recent Advances in Intelligent Computational Systems (RAICS) 2024  
+   *6th International Conference on Recent Advances in Intelligent Computational Systems (RAICS), 2024*
 
 ---
 
-### 📚 Certifications
-- **AI Programming with Python**, Udacity  
-- **Python for Data Science**, NPTEL  
-- **Foundational Level in Programming and Data Science**, IIT Madras  
+## 📜 Certifications
+
+- 🎓 *AI Programming with Python* – Udacity  
+- 🎓 *Python for Data Science* – NPTEL  
+- 🎓 *Foundational Level in Programming and Data Science* – IIT Madras  
 
 ---
 
-### ⚡ Fun Fact
-- I developed a **Streamlit app** that uses AI to summarize research papers and extract key insights—perfect for researchers who want to save time!
+## ⚡ Fun Fact
+
+I developed a **Streamlit app** that uses GenAI to **summarize research papers** and **extract key insights**—a huge time-saver for fellow researchers!
 
 ---
 
-
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+## 🛠️ Tech Stack & Tools
 
 <div align="left">
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" height="60" />
+   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/chatgpt.svg" height="60" />
+  
+  
+
+  
  
 
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
+---
 
+## 📈 Let’s Connect & Collaborate
 
+Have an idea for a **GenAI product**, **LLM tool**, or **research collaboration**?  
+Let's connect on [LinkedIn](https://www.linkedin.com/in/faslu-rahman-tp-ba2236201/) or drop me a mail!
 
-
-###
+---
